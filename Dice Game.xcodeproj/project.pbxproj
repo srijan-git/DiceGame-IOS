@@ -49,6 +49,7 @@
 		D2F9EB4B2A656FD900C15930 /* Dice GameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Dice GameUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2F9EB4F2A656FD900C15930 /* Dice_GameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dice_GameUITests.swift; sourceTree = "<group>"; };
 		D2F9EB512A656FD900C15930 /* Dice_GameUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dice_GameUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D2F9EB5E2A65938100C15930 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		D2F9EB222A656FD500C15930 = {
 			isa = PBXGroup;
 			children = (
+				D2F9EB5E2A65938100C15930 /* README.md */,
 				D2F9EB2D2A656FD500C15930 /* Dice Game */,
 				D2F9EB442A656FD900C15930 /* Dice GameTests */,
 				D2F9EB4E2A656FD900C15930 /* Dice GameUITests */,
