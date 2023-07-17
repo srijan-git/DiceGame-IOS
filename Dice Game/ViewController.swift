@@ -28,6 +28,7 @@ class ViewController: UIViewController {
     
 
     @IBAction func rollButtonPressed(_ sender: Any) {
+        //Randomize the elements
         diceImageView1.image=imageArray.randomElement();
         diceImageView2.image=imageArray.randomElement();
     }
